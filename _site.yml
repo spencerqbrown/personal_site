@@ -1,9 +1,16 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Personal Website"
+  title: "Spencer Brown"
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
-      href: about.html
+    - text: "Projects"
+      href: Projects.html
+    - text: "Resume"
+      href: Resume.pdf
+      
+output:
+  html_document:
+    theme: cosmo
+    #css: style.css

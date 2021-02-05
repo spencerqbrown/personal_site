@@ -1,5 +1,24 @@
 ---
-title: "Personal Website"
+title: "Spencer Brown"
 ---
 
-Hello, World!
+### Data Science student and Undergraduate Research Assistant at Iowa State University
+
+  \
+<div style= "float:left; position:relative; width:400px; margin-right:15px">
+![](./images/me_cropped.jpg)
+</div>
+
+### About Me
+
+Currently in my fourth (and final) year of my undergraduate career as a data science student. In addition to coursework, I have spent (and continue to spend) a lot of time independently learning data science skills and tools like Python (plus Pandas, sklearn, etc), SQL, and R to name a few. In my current remote position with the University of Iowa Marketing Department, I scrape, clean, and later analyze restaurant review data from Google Reviews, generally using Python (numpy, pandas) code with a hint of Excel.
+
+### Links
+
+Github: https://github.com/spencerqbrown  \
+LinkedIn: https://www.linkedin.com/in/spencerqbrown/  
+
+
+### Contact
+
+Email: spencerqbrown\@gmail.com
